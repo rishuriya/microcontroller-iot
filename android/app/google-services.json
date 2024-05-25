@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "825677889398",
+    "firebase_url": "https://microcontroller-iot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "microcontroller-iot",
+    "storage_bucket": "microcontroller-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825677889398:android:dde33c4e95a323bc598457",
+        "android_client_info": {
+          "package_name": "org.amrita.home.home_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBnO8gfGE0NnlKuJITzMnNhSjAdeRzDl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
